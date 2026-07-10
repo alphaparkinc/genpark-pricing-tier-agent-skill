@@ -1,17 +1,17 @@
-﻿{
-    "version":  "1.0.0",
-    "name":  "genpark-pricing-tier-agent-skill",
-    "outputs":  {
-                    "result_val":  {
-                                       "type":  "string"
-                                   }
-                },
-    "description":  "GenPark dynamic billing and SaaS pricing tier coordinator skill.",
-    "inputs":  {
-                   "input_val":  {
-                                     "type":  "string"
-                                 }
-               },
-    "author":  "alphaparkinc",
-    "prompt":  "Coordinate genpark-pricing-tier-agent-skill operations using the input configurations."
+{
+  "version": "1.0.0",
+  "name": "genpark-pricing-tier-agent-skill",
+  "outputs": {
+    "result_val": {
+      "type": "string"
+    }
+  },
+  "description": "GenPark dynamic billing and SaaS pricing tier coordinator skill.",
+  "inputs": {
+    "input_val": {
+      "type": "string"
+    }
+  },
+  "author": "genpark",
+  "prompt": "Coordinate genpark-pricing-tier-agent-skill operations using the input configurations."
 }
